@@ -1,0 +1,101 @@
+header {
+   font-family: 'Bebas Neue', Arial;
+   font-size: 20px;
+   background-color: #e5e5e5;
+   color: grey;
+   text-align: center;
+   padding: 20px;
+ }
+ 
+header img {
+   border-radius: 50%;
+}
+
+ h1 {
+   font-family: Arial Black;
+   color: grey;
+   text-align: center;
+ }
+ nav {
+   font-family:Arial;
+   color: white;
+   background-color: #B8B8B8;
+   text-align: center;
+ }
+ 
+ nav ul {
+   list-style: none;
+ }
+ 
+ nav li {
+   display: inline-block;
+   padding: 15px;
+ }
+ 
+ nav a {
+   color: white;
+   text-decoration: none;
+   text-transform: uppercase;
+ }
+
+ nav a:hover {
+   color: darkgrey;
+   background-color: #e5e5e5;
+   padding-top: 15px;
+   padding-bottom: 15.5px;
+ }
+
+ h2 {
+   font-family: Arial;
+   text-align: center;
+ }
+ .gallery {
+   text-align: center;
+   color: #7A7A7A;
+ }
+ 
+ figure {
+  display: inline;
+  padding: 1px;
+ }
+ 
+ .gallery h3 { 
+   padding: 10px;
+ }
+ 
+ .gallery figure h3 {
+   box-sizing: border-box;
+   padding: 6px;
+   float: left;
+   width: 24.99999%;
+ }
+ 
+ h3 {
+   font-family: Arial Narrow;
+ }
+ 
+ .personalinfo {
+   text-align: center;
+   color: #7A7A7A;
+ }
+ 
+ p {
+   font-family: Calibri;
+ }
+ 
+ .maintask {
+   text-align: center;
+   color: #7A7A7A;
+ }
+ 
+ body {
+   background-color: White;
+ }
+ footer {
+  font-family: 'Arial Narrow';
+  font-size: 20px;
+  background-color: #e5e5e5;
+  color: grey;
+  text-align: center;
+  padding: 20px;
+ }
